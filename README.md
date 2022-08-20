@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/drobb2020/four-card-feature-section)
+- Live Site URL: [Four Card Feature Section](https://superlative-hummingbird-4d3dac.netlify.app/)
 
 ## My process
 
